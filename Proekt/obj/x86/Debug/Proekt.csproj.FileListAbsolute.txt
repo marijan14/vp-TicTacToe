@@ -1,0 +1,16 @@
+C:\Users\User-PC\AppData\Local\Temporary Projects\Proekt\bin\Debug\Proekt.exe
+C:\Users\User-PC\AppData\Local\Temporary Projects\Proekt\bin\Debug\Proekt.pdb
+C:\Users\User-PC\AppData\Local\Temporary Projects\Proekt\obj\x86\Debug\Proekt.Form1.resources
+C:\Users\User-PC\AppData\Local\Temporary Projects\Proekt\obj\x86\Debug\Proekt.Form2.resources
+C:\Users\User-PC\AppData\Local\Temporary Projects\Proekt\obj\x86\Debug\Proekt.Properties.Resources.resources
+C:\Users\User-PC\AppData\Local\Temporary Projects\Proekt\obj\x86\Debug\Proekt.csproj.GenerateResource.Cache
+C:\Users\User-PC\AppData\Local\Temporary Projects\Proekt\obj\x86\Debug\Proekt.exe
+C:\Users\User-PC\AppData\Local\Temporary Projects\Proekt\obj\x86\Debug\Proekt.pdb
+C:\Users\User-PC\documents\visual studio 2010\Projects\Proekt\Proekt\obj\x86\Debug\Proekt.exe
+C:\Users\User-PC\documents\visual studio 2010\Projects\Proekt\Proekt\obj\x86\Debug\Proekt.pdb
+C:\Users\User-PC\documents\visual studio 2010\Projects\Proekt\Proekt\bin\Debug\Proekt.exe
+C:\Users\User-PC\documents\visual studio 2010\Projects\Proekt\Proekt\bin\Debug\Proekt.pdb
+C:\Users\User-PC\documents\visual studio 2010\Projects\Proekt\Proekt\obj\x86\Debug\Proekt.Form1.resources
+C:\Users\User-PC\documents\visual studio 2010\Projects\Proekt\Proekt\obj\x86\Debug\Proekt.Form2.resources
+C:\Users\User-PC\documents\visual studio 2010\Projects\Proekt\Proekt\obj\x86\Debug\Proekt.Properties.Resources.resources
+C:\Users\User-PC\documents\visual studio 2010\Projects\Proekt\Proekt\obj\x86\Debug\Proekt.csproj.GenerateResource.Cache
